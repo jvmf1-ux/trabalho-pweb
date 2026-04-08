@@ -1,7 +1,7 @@
 Trabalho de GitHub
 
 Integrantes
-- Nome 1
+João Vitor Matias Ferreira
 - Nome 2
 - Nome 3
 
