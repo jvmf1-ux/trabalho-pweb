@@ -3,5 +3,5 @@ Trabalho de GitHub
 Integrantes
 João Vitor Matias Ferreira
 Arthur Uemoto
-- Nome 3
+Vitor Sergio Ferreira da Silva Xavier
 
